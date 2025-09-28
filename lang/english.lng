@@ -2,8 +2,8 @@
 # This is the English language file
 
 # GRF name and description definitions
-STR_GRF_NAME :Furry Town Names Plus 0.1
-STR_GRF_DESCRIPTION :{BLACK} A set of anthro/animal/furry-themed town names, with some {RED}18+ additions. {}{} {BLACK} Currently as of 0.1 there is 388 entries, 97 prefixes, 131 animal roots, 101 suffixes, 58 spaced suffixes, and 1 nothing. {}{} {BLACK} This was done out of boredom and as such expect no further updates.
+STR_GRF_NAME :Furry Town Names Plus 0.2
+STR_GRF_DESCRIPTION :{BLACK} A set of anthro/animal/furry-themed town names, with some {RED}18+ additions. {}{} {BLACK} Currently as of 0.2 there is some amount of things, most of it is cleaned up to be more concise. {}{} {BLACK} This was done out of boredom and as such expect no further updates.
 
 # Name Strings
 
